@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+scipy
+matplotlib
+boto3
+tabulate
+pyodbc
+-e .
