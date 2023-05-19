@@ -6,4 +6,7 @@ matplotlib
 boto3
 tabulate
 pyodbc
--e .
+scikit-learn
+catboost
+xgboost
+#-e .
